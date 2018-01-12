@@ -1,3 +1,7 @@
+# subl
+
+## subl_user_setting.json
+'''
 {
     "ensure_newline_at_eof_on_save": true,
     "font_size": 8,
@@ -9,3 +13,4 @@
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
+'''
