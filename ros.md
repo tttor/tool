@@ -1,9 +1,15 @@
-# ROS: http://ros.org/
-
-## cheats
-* `catkin_make`
-* `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
-
+# [ROS](http://ros.org/)
+## ros cmd
+* system
+  * `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
+  * `catkin_make`
+* controller
+    * `rosrun controller_manager controller_manager list`
+    * `rosservice call /controller_manager/list_controller_types`
+* tf
+  * `rosrun tf tf_echo /map /odom`
+  * `rosrun tf view_frames`
+  
 ## clean_catkin_ws
 ```
 #!/bin/bash
