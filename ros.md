@@ -7,8 +7,9 @@
     * `rosrun controller_manager controller_manager list`
     * `rosservice call /controller_manager/list_controller_types`
 * tf
-  * `rosrun tf tf_echo /map /odom`
-  * `rosrun tf view_frames`
+  * `rosrun tf tf_echo <source_frame> <target_frame>`
+  * `rosrun tf tf_monitor <source_frame> <target_target>`
+  * `rosrun tf view_frames` # generate a pdf
   
 ## clean_catkin_ws
 ```
