@@ -8,6 +8,10 @@
 * `sudo apt install htop`
 * `sudo apt-get install openssh-server`
 
+## python3
+* `sudo pip3 install -U numpy`
+* `sudo apt install python3-pip`
+
 ## nice
 * VLC media player
 * RecordMyDesktop
