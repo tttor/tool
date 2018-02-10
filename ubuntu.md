@@ -10,8 +10,10 @@
 
 ## python3
 * `sudo apt install python3-pip`
+* `sudo apt-get install python3-tk`
 * `sudo pip3 install -U numpy`
 * `sudo pip3 install -U pyaml`
+* `sudo pip3 install -U matplotlib`
 
 ## nice
 * VLC media player
