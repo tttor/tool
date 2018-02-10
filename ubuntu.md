@@ -9,8 +9,9 @@
 * `sudo apt-get install openssh-server`
 
 ## python3
-* `sudo pip3 install -U numpy`
 * `sudo apt install python3-pip`
+* `sudo pip3 install -U numpy`
+* `sudo pip3 install -U pyaml`
 
 ## nice
 * VLC media player
