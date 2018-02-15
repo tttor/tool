@@ -3,6 +3,7 @@
 * system
   * `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
   * `catkin_make`
+  * `rostopic list | grep -o -P '^.*(?=/feedback)'` # list action servers from [this](https://answers.ros.org/question/222748/list-action-servers/)
 * controller
     * `rosrun controller_manager controller_manager list`
     * `rosservice call /controller_manager/list_controller_types`
