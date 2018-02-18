@@ -7,6 +7,7 @@
 * `sudo apt install tmux`
 * `sudo apt install htop`
 * `sudo apt-get install openssh-server`
+* `sudo apt-get install ncdu` # disk utility
 
 ## python3
 * `sudo apt install python3-pip`
