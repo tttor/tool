@@ -1,5 +1,9 @@
 # tex
 
+## helper
+* https://verbosus.com/bibtex-style-examples.html
+* http://detexify.kirelabs.org/classify.html
+
 ## typing
 * Not to break inline formulas: 
 guard with `{.. }`, 
