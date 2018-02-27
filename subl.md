@@ -26,3 +26,15 @@
     "translate_tabs_to_spaces": true,
 }
 ```
+
+## Markdown.sublime-settings
+```
+// These settings override both User and Default settings for the Markdown syntax
+{
+       // The number of spaces a tab is considered equal to
+    "tab_size": 2,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+}
+```
