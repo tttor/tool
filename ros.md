@@ -13,6 +13,11 @@
   * `rosrun tf tf_monitor <source_frame> <target_target>`
   * `rosrun tf view_frames` # generate a pdf
   
+## best practices
+* topics vs services vs actionlib
+  * https://answers.ros.org/question/11834/when-should-i-use-topics-vs-services-vs-actionlib-actions-vs-dynamic_reconfigure/
+  * http://wiki.ros.org/ROS/Patterns/Communication#Communication_via_Topics_vs_Services_vs_X
+  
 ## clean_catkin_ws
 ```
 #!/bin/bash
