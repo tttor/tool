@@ -1,5 +1,5 @@
 # [ROS](http://ros.org/)
-## ros cmd
+## Cmd
 * system
   * `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
   * `catkin_make`
@@ -13,15 +13,17 @@
   * `rosrun tf tf_monitor <source_frame> <target_target>`
   * `rosrun tf view_frames` # generate a pdf
   
-## best practices
+## Best practices
 * topics vs services vs actionlib
   * https://answers.ros.org/question/11834/when-should-i-use-topics-vs-services-vs-actionlib-actions-vs-dynamic_reconfigure/
   * http://wiki.ros.org/ROS/Patterns/Communication#Communication_via_Topics_vs_Services_vs_X
-  
-## clean_catkin_ws
+* clean_catkin_ws
 ```
 #!/bin/bash
 # http://wiki.ros.org/catkin/Tutorials/using_a_workspace#Cleaning_up
 # https://answers.ros.org/question/66366/how-to-catkin_make-clean-just-one-package/
 rm -rf build devel install
 ```
+
+## Tutorials
+* http://www.clearpathrobotics.com/assets/guides/ros/index.html
