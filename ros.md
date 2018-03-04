@@ -13,6 +13,10 @@
   * `rosrun tf tf_monitor <source_frame> <target_target>`
   * `rosrun tf view_frames` # generate a pdf
   
+## With Gazebo
+* `roslaunch gazebo_worlds empty_world.launch` 
+* `gzsdf print urdfname.urdf > newname.sdf` # from [here](http://answers.gazebosim.org/question/2282/convert-urdf-to-sdf-or-load-urdf/)
+
 ## Best practices
 * topics vs services vs actionlib
   * https://answers.ros.org/question/11834/when-should-i-use-topics-vs-services-vs-actionlib-actions-vs-dynamic_reconfigure/
