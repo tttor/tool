@@ -29,3 +29,6 @@ rm -rf build devel install
   
 ## Tutorials
 * http://www.clearpathrobotics.com/assets/guides/ros/index.html
+
+## Tools
+* Visualize quarternion: http://quaternions.online/
