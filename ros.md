@@ -24,6 +24,8 @@
 # https://answers.ros.org/question/66366/how-to-catkin_make-clean-just-one-package/
 rm -rf build devel install
 ```
-
+* ref:
+  * https://github.com/ethz-asl/ros_best_practices/wiki
+  
 ## Tutorials
 * http://www.clearpathrobotics.com/assets/guides/ros/index.html
