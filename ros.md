@@ -26,9 +26,12 @@ rm -rf build devel install
 ```
 * ref:
   * https://github.com/ethz-asl/ros_best_practices/wiki
-  
+    
 ## Tutorials
+* http://wiki.ros.org/ROS/Tutorials
 * http://www.clearpathrobotics.com/assets/guides/ros/index.html
-
+* http://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/
+* http://jbohren.com/tutorials/2014-02-12-gentle-catkin-intro/
+ 
 ## Tools
 * Visualize quarternion: http://quaternions.online/
