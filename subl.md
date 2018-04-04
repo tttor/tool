@@ -1,13 +1,45 @@
 # subl
 
 ## user.sublime-settings
+/home/tor/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 ```
 {
     "ensure_newline_at_eof_on_save": true,
-    "font_size": 8,
+    "file_exclude_patterns":
+    [
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db",
+        "*.sublime-workspace"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS"
+    ],
+    "font_size": 11,
     "indent_to_bracket": true,
     "match_brackets_angle": true,
-    "rulers": [80],
+    "rulers":
+    [
+        80
+    ],
     "save_on_focus_lost": true,
     "show_line_endings": true,
     "translate_tabs_to_spaces": true,
