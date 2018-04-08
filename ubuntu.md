@@ -1,5 +1,8 @@
 # ubuntu
 
+## python virtual env
+* `virtualenv --system-site-packages -p python3 <targetDirectory>`
+
 ## must
 * `sudo apt install git`
 * `sudo apt install sublime-text`, see [this](https://www.sublimetext.com/docs/3/linux_repositories.html)
