@@ -23,6 +23,7 @@
 * VLC media player
 * RecordMyDesktop
 * `sudo apt install kdenlive`
+* [MeshLab](http://www.meshlab.net/)
 
 ## bash
 * timestamp
