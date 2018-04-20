@@ -22,8 +22,9 @@
 ## nice
 * VLC media player
 * RecordMyDesktop
-* `sudo apt install kdenlive`
 * [MeshLab](http://www.meshlab.net/)
+* `sudo apt install pdftk`
+* `sudo apt install kdenlive`
 
 ## bash
 * timestamp
