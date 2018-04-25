@@ -19,6 +19,7 @@
 * `sudo pip3 install -U numpy`
 * `sudo pip3 install -U pyaml`
 * `sudo pip3 install -U matplotlib`
+* `sudo update-alternatives --config python3` # switch between the two python versions for python3
 
 ## nice
 * VLC media player
